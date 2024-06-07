@@ -1,0 +1,9 @@
+.drop {
+    border: '2px dashed #cccccc';
+    border-radius: '5px';
+    padding: '20px';
+    text-align: 'center';
+    cursor: 'pointer';
+    background-color: '#fafafa';
+    color: '#333'
+  }
